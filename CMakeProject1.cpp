@@ -8,5 +8,6 @@ using namespace std;
 int main()
 {
 	std::cout << "Jackson Pierson" << std::endl;
+	std::cout << "Hello Jackson, I'm Nan Shen" << std::endl;
 	return 0;
 }
